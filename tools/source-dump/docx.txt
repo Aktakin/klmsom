@@ -1,0 +1,153 @@
+PROPOSED WEBSITE FOR KLM ONLINE SCHOOL OF MINISTRY
+INITAIAL WEBSITE DESIGN FORMAT
+
+1. Home
+The homepage should quickly answer: Who are we? What do we offer? Why should I enrol? How do I apply?
+Recommended content:
+- KLM Online School of Ministry
+- Tagline: “Equipping Believers. Developing Leaders. Advancing the Kingdom.”
+- Brief introduction to KLM School of Ministry
+- Current/next cohort announcement
+- Brief programme highlights
+- Why study at KLM SOM?
+- Featured courses
+- Student/graduate testimonies
+- Upcoming events
+- Clear “Apply Now” and “Explore Programmes” buttons
+2. About KLM School of Ministry
+This page establishes the identity and purpose of the school.
+Recommended content:
+- About KLM School of Ministry
+- Our Vision
+- Our Mission
+- Our Purpose
+- Biblical foundation
+- Training philosophy
+- School objectives
+- Message from the General Overseer
+- Message from the Dean of Studies
+- School leadership/faculty
+- Brief history of the School of Ministry
+3. Programmes & Courses
+This should provide prospective students with enough information to understand what they will learn.
+Recommended content:
+- Programme overview
+- Programme duration
+- Delivery format
+- Course structure
+- Course/module titles
+- Brief description of each course
+- Learning outcomes
+- Who should attend?
+- Programme completion requirements
+- Certification awarded
+- “Apply for the Programme” button
+Individual course pages can later be added as the website expands.
+4. Admissions & Enrolment
+This should be the website's major conversion page.
+I recommend presenting the admission process visually as:
+Discover → Apply → Review → Admission → Enrol → Begin Your Journey
+Content should include:
+- Admission requirements
+- Who is eligible?
+- Application opening/closing dates
+- Programme commencement date
+- Programme duration
+- Fees, where applicable
+- Application instructions
+- Required applicant information/documents
+- Online application form
+- Application confirmation
+- Enrolment/registration process
+- Admissions FAQs
+- Apply Now
+- Check Application Status, if technically feasible
+5. Testimonies & Impact
+Rather than simply displaying quotations, this page should demonstrate the transformational impact of SOM.
+Recommended content:
+- Graduate testimonies
+- Student experiences
+- Video testimonies
+- Ministry transformation stories
+- Graduate achievements
+- Impact statistics
+- Cohort highlights
+- Graduation photographs
+Possible headline:
+“Transformed to Transform Others.”
+6. News, Events & Calendar
+This keeps the website active and gives existing and prospective students reasons to return.
+Include:
+- Latest SOM news
+- Admissions announcements
+- Upcoming cohorts
+- Orientation
+- Special lectures
+- Conferences/seminars
+- Graduation ceremonies
+- Alumni programmes
+- Ministry events
+- Photo/event highlights
+The calendar could provide simple Upcoming Events cards rather than a complex calendar system initially.
+7. Alumni & Ministry Deployment
+This is particularly important because ministry education should ultimately lead to service and impact.
+Recommended content:
+- About the SOM Alumni Network
+- Alumni success stories
+- Where our graduates are serving
+- Ministry deployment opportunities
+- Volunteer/service opportunities
+- Continuing ministry development
+- Mentoring opportunities
+- Alumni events
+- Alumni registration/update form
+- Join the Alumni Network
+A strong message for this page could be:
+“Equipped to Serve. Empowered to Lead. Deployed to Impact.”
+8. Contact & Support
+Keep this straightforward and accessible.
+Include:
+- Contact KLM School of Ministry
+- Administrative enquiries
+- Admissions enquiries
+- Programme enquiries
+- Telephone/WhatsApp contact
+- Email
+- Contact form
+- Church/SOM location
+- Office hours
+- Social-media links
+- Frequently Asked Questions
+Recommended Main Website Menu
+For Phase 1, I would keep the navigation especially clean:
+HOME | ABOUT | PROGRAMMES & COURSES | ADMISSIONS | IMPACT | NEWS & EVENTS | ALUMNI | CONTACT
+With a prominent contrasting button:
+APPLY NOW
+Recommended Homepage Flow
+The homepage itself should follow a deliberate journey:
+Hero Banner
+KLM Online School of Ministry
+Equipping Believers. Developing Leaders. Advancing the Kingdom.
+Explore Programmes | Apply Now
+↓
+Welcome to KLM School of Ministry
+↓
+Why KLM School of Ministry?
+↓
+Our Programmes & Courses
+↓
+Your SOM Journey
+Apply → Learn → Grow → Graduate → Serve
+↓
+Testimonies & Impact
+↓
+Next Cohort / Admissions Open
+↓
+News & Upcoming Events
+↓
+Alumni & Ministry Impact
+↓
+Ready to Begin Your Ministry Development Journey?
+APPLY NOW
+↓
+Contact | Quick Links | Social Media | Copyright

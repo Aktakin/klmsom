@@ -1,0 +1,34 @@
+===== slide1.xml (embedded images: 2) =====
+2026 CLASS
+
+===== slide2.xml (embedded images: 1) =====
+(no text layer)
+
+===== slide3.xml (embedded images: 1) =====
+(no text layer)
+
+===== slide4.xml (embedded images: 1) =====
+(no text layer)
+
+===== slide5.xml (embedded images: 1) =====
+(no text layer)
+
+===== slide6.xml (embedded images: 1) =====
+(no text layer)
+
+===== slide7.xml (embedded images: 1) =====
+(no text layer)
+
+===== slide8.xml (embedded images: 1) =====
+(no text layer)
+
+===== media inventory =====
+ppt/media/image1.jpeg  101440 bytes
+ppt/media/image2.png  1511172 bytes
+ppt/media/image3.png  2338678 bytes
+ppt/media/image4.png  2357462 bytes
+ppt/media/image5.png  2346494 bytes
+ppt/media/image6.png  2033281 bytes
+ppt/media/image7.png  2051103 bytes
+ppt/media/image8.png  2101404 bytes
+ppt/media/image9.png  2348117 bytes
