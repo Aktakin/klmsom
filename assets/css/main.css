@@ -741,14 +741,22 @@ h5 {
 }
 
 .wordmark__crest {
-  width: 5.75rem;
+  width: 6.85rem;
   height: auto;
   flex: none;
-  transition: width 0.25s ease;
+  padding: 0.45rem;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 0.4rem;
+  box-shadow: 0 1px 0 rgba(255, 255, 255, 0.9), 0 8px 18px -14px rgba(7, 16, 38, 0.35);
+  transition: width 0.25s ease, padding 0.25s ease;
+  image-rendering: auto;
+  -webkit-font-smoothing: antialiased;
 }
 
 .masthead.is-stuck .wordmark__crest {
-  width: 4.35rem;
+  width: 5.25rem;
+  padding: 0.35rem;
 }
 
 /* Full School emblem already carries the name and motto. */
@@ -1043,14 +1051,7 @@ h5 {
 }
 
 .hero__crest {
-  position: absolute;
-  inset: auto 4% 6% auto;
-  margin: 0;
-  width: min(38%, 16rem);
-  opacity: 0.14;
-  filter: none;
-  pointer-events: none;
-  z-index: 1;
+  display: none;
 }
 
 /* Cohort card */
@@ -2823,8 +2824,12 @@ h5 {
 }
 
 .footer__crest {
-  width: 6.5rem;
+  width: 7.25rem;
   flex: none;
+  padding: 0.55rem;
+  background: #fff;
+  border-radius: 0.45rem;
+  box-shadow: 0 10px 24px -16px rgba(0, 0, 0, 0.55);
 }
 
 .footer__brandname {
@@ -3035,13 +3040,15 @@ h5 {
   display: grid;
   place-items: center;
   padding: clamp(1.5rem, 3vw, 2.75rem);
-  background: var(--paper);
+  background: #fff;
   border: var(--rule) solid var(--line);
   border-top: 3px solid var(--gold-500);
 }
 
 .crest-plate img {
-  width: min(100%, 15rem);
+  width: min(100%, 18rem);
+  height: auto;
+  image-rendering: auto;
 }
 
 .crest-plate figcaption {
